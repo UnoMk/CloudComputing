@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "160626098467",
+    "project_id": "advanced-technology-5452a",
+    "firebase_url": "https://advanced-technology-5452a-default-rtdb.europe-west1.firebasedatabase.app",
+    "storage_bucket": "advanced-technology-5452a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160626098467:android:8fb2671cb6142a1bde8c96",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.CloudComputing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6iXc-dcaLazTGTD722a9PzCnWNbDFIcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
